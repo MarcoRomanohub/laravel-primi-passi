@@ -11,8 +11,10 @@
 <body>
 
     <div class="container my-5 ">
-        <h1>Ciao Laravel</h1>
-        <h1>Home</h1>
+        <h1>Hello World</h1>
+        <h2>Home</h2>
+        <h3> Ciao {{ $name }} {{ $lastname }} </h3>
+
     </div>
 
 </body>
